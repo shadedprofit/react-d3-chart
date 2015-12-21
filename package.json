@@ -1,0 +1,49 @@
+{
+  "name": "react-d3-chart",
+  "version": "1.0.0",
+  "description": "D3 charts rendered in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadedprofit/react-d3-chart.git"
+  },
+  "author": "Edgar Pabon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadedprofit/react-d3-chart/issues"
+  },
+  "homepage": "https://github.com/shadedprofit/react-d3-chart#readme",
+  "dependencies": {
+    "babel": "^6.3.13",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "c3": "^0.4.10",
+    "c3-react": "^0.1.13",
+    "css-loader": "^0.23.0",
+    "d3": "^3.5.11",
+    "d3-react-squared": "^0.3.6",
+    "d3-tip": "^0.6.7",
+    "extract-text-webpack-plugin": "^0.9.1",
+    "file-loader": "^0.8.5",
+    "immutable": "^3.7.6",
+    "numeral": "^1.5.3",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-faux-dom": "^2.1.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.9"
+  },
+  "devDependencies": {
+    "babelify": "^7.2.0",
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "webpack-dev-server": "^1.14.0"
+  }
+}
